@@ -10,5 +10,10 @@
         {
             throw new NotImplementedException();
         }
+
+        internal bool ValidateLastName(string? lastName)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
